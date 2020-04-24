@@ -1,0 +1,9 @@
+$red: #f00;
+$white: #fff;
+$font: "Lucida Sans Unicode", sans-serif;
+
+body {
+  font-family: $font;
+  color: $red;
+  background: $white;
+}
